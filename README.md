@@ -125,7 +125,6 @@ http://localhost:5173
 - Admin Dashboard
 - Store Owner Dashboard
 - Improved UI using Tailwind CSS
-- Deployment on Vercel and Render
 
 ## Author
 
