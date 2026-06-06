@@ -46,36 +46,6 @@ store-rating-system
 └── README.md
 ```
 
-## Database Tables
-
-### Users
-
-| Column | Type |
-|----------|----------|
-| id | SERIAL |
-| name | VARCHAR |
-| email | VARCHAR |
-| address | VARCHAR |
-| password | VARCHAR |
-
-### Stores
-
-| Column | Type |
-|----------|----------|
-| id | SERIAL |
-| name | VARCHAR |
-| address | VARCHAR |
-
-### Ratings
-
-| Column | Type |
-|----------|----------|
-| id | SERIAL |
-| store_name | VARCHAR |
-| rating | INTEGER |
-
-## API Endpoints
-
 ### Authentication
 
 #### Signup
